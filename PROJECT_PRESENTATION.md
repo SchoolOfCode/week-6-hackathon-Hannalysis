@@ -37,15 +37,26 @@ To check whether you have succeeded the challenge, ensure to type in the followi
 
 <h2 align = "center">Documentation</h2>
 
-PH Planning and Fist to Five Table will be here
-
-
+  <h4 align = "center">Fist to Five - Fergus: Green | Hannah: Light Blue</h4>
+<p align="center">
+  <img src="Fist_or_Five_approach.JPG" alt="Fist to Five Table">
+</p>
 
 ------------
 
-<h3 align = "center"><u>Boundary Analysis Tables</u></h3>
+<h3 align = "center"><u>Decision Table</u></h3>
 
-<h4 align = "center"><i>damageBuff Kata</i></h4>
+<h4 align = "center"><i>For teamWeapon Kata only</i></h4>
+
+<p align="center">
+  <img src="Small_Decision_Table_for_Hannah_Kata2.JPG" alt="Small Decision Table for 2nd Kata">
+</p>
+
+------------
+
+<h3><u>Boundary Analysis Tables</u></h3>
+
+<h4><i>damageBuff Kata</i></h4>
 
 |       | Test Case                               | Input | Output |
 | ----- | --------------------------------------- | ----- | ------ |
@@ -59,6 +70,23 @@ PH Planning and Fist to Five Table will be here
 
 
 
-<h4 align = "center"><i>teamWeapon Kata</i></h4>
+<h4><i>teamWeapon Kata</i></h4>
 
-PH, link to presentation slides : [Documentation](https://linktodocumentation)
+|        | Test Case                            | Input           | Output                                                |
+| ------ | ------------------------------------ | --------------- | ----------------------------------------------------- |
+| TC#7   | Terrorist only weapon test 1         | "MAC-10"        | "Only Terrorists can equip the MAC-10."               |
+| TC#8   | Terrorist only weapon test 2         | "AK47"          | "Only Terrorists can equip the AK47."                 |
+| TC#9   | Counter-Terrorist only weapon test 1 | "TMP"           | "Only Counter-Terrorists can equip the TMP."          |
+| TC#10  | Counter-Terrorist only weapon test 2 | "M4A1 Carbine"  | "Only Counter-Terrorists can equip the M4A1 Carbine." |
+| TC#11  | Both teams weapon test 1             | "P90"           | "Both teams can equip the P90."                       |
+| TC#12  | Both teams weapon test 2             | "Smoke Grenade" | "Both teams can equip the Smoke Grenade."             |
+| TC#13  | A weapon neither team can equip      | "M60"           | "Neither teams can equip that weapon."                |  
+  
+  
+------------
+
+## Other Information
+  
+[Hackathon Presentation Slides](https://linktodocumentation)  
+  
+------------

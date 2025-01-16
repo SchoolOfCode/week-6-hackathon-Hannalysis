@@ -1,4 +1,4 @@
-/* --- Counter Strike: Source/GO --- */
+/* --- Counter Strike: Code Katas --- */
 
  /* --- Kata 1 [Easy] --- */
 // Ah, so you're fresh meat for our ranks! We'll be kind to you as it's your first day on the field.
@@ -16,11 +16,29 @@ export function damageBuff (playerDamage) {
 // return playerDamage with increased buff amount
 }
 
- /* --- Kata 2 [Challenging] --- */
-// Terrorist and Counter Terrorist separate arrays of available weaponry
-//The challenge would be to input a weapon name and the function would return what team can equip it
+// ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+/* --- Kata 2 [Challenging] --- */
+// Great! You've somehow beaten 92.5% of previous wannabe recruits by completing the first Kata.
+// Most also get confused on what team they should even be playing for most of the time!
+// Using the table below, I need you to create a method to return the team that is allowed to utilise the selected weapon.
+// Accepted return responses are: 
+// "Only Terrorists can equip the [weapon name]." | "Only Counter-Terrorists can equip the [weapon name]." | "Both teams can equip the [weapon name]." | "Neither teams can equip the [weapon name]."
+// So, help your fellow comrades before they even get onto the battlefield! 
+/*
+| Weapon Name   | Terrorist | Counter-Terrorist |
+| ------------- | --------- | ----------------- |
+| MAC-10        | Y         | N                 |
+| TMP           | N         | Y                 |
+| P90           | Y         | Y                 |
+| AK47          | Y         | N                 |
+| M4A1 Carbine  | N         | Y                 |
+| Smoke Grenade | Y         | Y                 | 
+*/
+
 
 export function teamWeapon (weapon) {
     // enter code here ready to test against
+
     // return the team that is able to utilize that weapon
     }
