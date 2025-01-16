@@ -15,7 +15,7 @@ test('Whole positive number (50)', () => {
     });
 
  /* TC#2 */
-test('Whole positive number, max amount (100)', () => {
+test('Whole positive number, higher amount (100)', () => {
     // Arrange
     const input = 100;
     const expected = 150;
