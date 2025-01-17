@@ -87,6 +87,6 @@ To check whether you have succeeded the challenge, ensure to type in the followi
 
 ## Other Information
   
-[Hackathon Presentation Slides](https://linktodocumentation)  
+[Hackathon Presentation Slides](https://docs.google.com/presentation/d/14X5ZMeJhEti9xj3a1icfa0fRYYU1DRUraRPhlI4s0f4/edit?usp=sharing)  
   
 ------------
