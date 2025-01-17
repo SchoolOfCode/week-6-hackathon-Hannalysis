@@ -23,7 +23,7 @@ export function damageBuff (playerDamage) {
 // Most also get confused on what team they should even be playing for most of the time!
 // Using the table below, I need you to create a method to return the team that is allowed to utilise the selected weapon.
 // Accepted return responses are: 
-// "Only Terrorists can equip the [weapon name]." | "Only Counter-Terrorists can equip the [weapon name]." | "Both teams can equip the [weapon name]." | "Neither teams can equip the [weapon name]."
+// "Only Terrorists can equip the [weapon name]." | "Only Counter-Terrorists can equip the [weapon name]." | "Both teams can equip the [weapon name]." | "Neither teams can equip that weapon."
 // So, help your fellow comrades before they even get onto the battlefield! 
 /*
 | Weapon Name   | Terrorist | Counter-Terrorist |
