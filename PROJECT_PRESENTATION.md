@@ -54,7 +54,7 @@ To check whether you have succeeded the challenge, ensure to type in the followi
 
 ------------
 
-<h3><u>Boundary Analysis Tables</u></h3>
+<h3><u>Boundary Value Analysis Tables</u></h3>
 
 <h4><i>damageBuff Kata</i></h4>
 
