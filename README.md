@@ -1,7 +1,3 @@
-Room: 10  
-Name: Hannah Watts  
-Link: https://github.com/SchoolOfCode/week-6-hackathon-Hannalysis  
-  
 # Team: MAC-10
 # Counter Strike: Code Katas
 
