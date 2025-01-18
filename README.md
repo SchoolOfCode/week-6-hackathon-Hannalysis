@@ -28,7 +28,7 @@ Kata 2: [Challenging] Team Weapon Sorter: teamWeapon
 To check whether you have succeeded the challenge, ensure to type in the following command inside the terminal:
 
 ```bash
-  npm vitest
+  npx vitest
 ```
 
 <h2 align = "center">Documentation</h2>
